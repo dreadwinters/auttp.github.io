@@ -9,9 +9,15 @@
 	padding: 8px;
 }
 
+.topBar a {
+	color: beige;
+	padding: 15px;
+}
+
 .inquiries {
 	padding-top: 30px;
 }
+
 img {
 	border: 2px solid white;
 	border-radius: 4px;
@@ -22,7 +28,3 @@ html {
 	color: white;
 }
 
-a {
-	color: beige;
-	padding: 15px;
-}
