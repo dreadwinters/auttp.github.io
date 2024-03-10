@@ -6,11 +6,11 @@
 
 .topBar {
 	background-color: #404040;
-	padding: 4px;
+	padding: 8px;
 }
 
 .inquiries {
-	padding-top: 10px;
+	padding-top: 30px;
 }
 img {
 	border: 2px solid white;
@@ -24,4 +24,5 @@ html {
 
 a {
 	color: beige;
+	padding: 15px;
 }
