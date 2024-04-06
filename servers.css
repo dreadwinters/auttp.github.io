@@ -1,3 +1,29 @@
+.main {
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.topBar {
+	background-color: #404040;
+	padding: 8px;
+}
+
 a {
-	padding: 20px;
+	color: beige;
+	padding: 15px;
+}
+
+.inquiries {
+	padding-top: 30px;
+}
+
+img {
+	border: 2px solid white;
+	border-radius: 4px;
+}
+
+html {
+	background-color: black;
+	color: white;
 }
