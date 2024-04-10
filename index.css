@@ -29,10 +29,8 @@ html {
 	font-family: arial;
 }
 
-/* Uncomment if (this is) sigma
 a:hover {
-      transition: all .2s ease-in-out;
-      font-size: 130%;
-      color: #ffffee;
-    }
-*/
+	transition: all .2s ease-in-out;
+	font-size: 110%;
+	color: #ffffee;
+}
