@@ -10,7 +10,7 @@
 }
 
 a {
-	color: beige;
+	color: #f5f5dc;
 	padding: 15px;
 }
 
@@ -29,3 +29,10 @@ html {
 	font-family: arial;
 }
 
+/* Uncomment if (this is) sigma
+a:hover {
+      transition: all .2s ease-in-out;
+      font-size: 130%;
+      color: #ffffee;
+    }
+*/
