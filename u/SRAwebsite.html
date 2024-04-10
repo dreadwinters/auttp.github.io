@@ -1,0 +1,14 @@
+<iframe id="sra" src="https://spamreportarmy.neocities.org" frameborder="0" scrolling="no"></iframe>
+
+<script>
+  window.onload = function() {
+    var iframe = document.getElementById("myiframe");
+    iframe.style.height = window.innerHeight + "px";
+    iframe.style.width = window.innerWidth + "px";
+
+    window.onresize = function() {
+      iframe.style.height = window.innerHeight + "px";
+      iframe.style.width = window.innerWidth + "px";
+    }
+  }
+</script>
