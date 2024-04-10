@@ -28,14 +28,14 @@ small { font-size: 7px; }
 		 width: 36%; 
 	}
     .sectionLeft, .sectionRight {
-      background-color: #404040;
+      background-color: #5f2096;
       border-radius: 11px;
       color: #FFFFFF;
       padding: 10px; 
     }
     .sectionTop {
       width: 80%;
-      background-color: #404040;
+      background-color: #5f2096;
       border-radius: 11px;
       color: #FFFFFF;
       margin-bottom: 20px;
